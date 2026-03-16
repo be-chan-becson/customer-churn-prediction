@@ -79,3 +79,11 @@ telco-churn-project
 - churn_analysis.ipynb
 - README.md
 - dataset
+
+## Conclusion
+
+Customers with month-to-month contracts have the highest churn rate.
+
+Higher monthly charges and electronic check payment methods are associated with increased churn probability.
+
+A logistic regression model achieved approximately 80% accuracy in predicting customer churn.
